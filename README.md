@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi there! I'm Henry Kevin</h1>
+  <h1>👋 Hi there! I'm Henry Kevin </h1>
   <p>Data Scientist | Machine Learning Enthusiast | Lifelong Learner</p>
   <div align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPaceKW%2FPaceKW&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views">
@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/github/followers/PaceKW?label=Follow&style=social" alt="GitHub Followers Badge">
 </div>
 </div>
+
 ---
 
 ### 🚀 About Me
