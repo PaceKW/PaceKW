@@ -4,8 +4,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henrykev/)
 
-
-
 [![Github](https://img.shields.io/github/followers/PaceKW?label=Follow&style=social)](https://github.com/PaceKW)
 
 
