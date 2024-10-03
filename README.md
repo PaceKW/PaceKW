@@ -1,11 +1,11 @@
 <div align="center">
   <h1>👋 Hi there! I'm Henry Kevin Marcelino Ratu</h1>
+  <p>Data Scientist | Machine Learning Enthusiast | Lifelong Learner</p>
   <div align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPaceKW%2FPaceKW&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   <img src="https://img.shields.io/github/followers/PaceKW?label=Follow&style=social" alt="GitHub Followers Badge">
 </div>
-  <p>Data Scientist | Machine Learning Enthusiast | Lifelong Learner</p>
 </div>
 
 
