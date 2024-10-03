@@ -7,8 +7,7 @@
   <img src="https://img.shields.io/github/followers/PaceKW?label=Follow&style=social" alt="GitHub Followers Badge">
 </div>
 </div>
-
----
+<hr>
 
 ### 🚀 About Me
 I am a passionate **Data Scientist** with expertise in:
